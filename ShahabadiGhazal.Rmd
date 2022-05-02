@@ -1,5 +1,5 @@
 ---
-author: "Firstname Lastname"
+author: "Shahabadi Ghazal"
 title: "Title of your post"
 layout: post
 topic: "06"
